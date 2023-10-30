@@ -23,7 +23,13 @@
 				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/PaperAssets/Toad/T_Toad_Attack_Sprite.uasset",
 				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/PaperAssets/Toad/T_Toad_Defeated_Sprite.uasset",
 				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/PaperAssets/Toad/T_Toad_Idle_Sprite.uasset",
-				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Maps/MAP_Duel.umap"
+				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Maps/MAP_Duel.umap",
+				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai.uasset",
+				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset",
+				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset",
+				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/GM_Duel.uasset",
+				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset",
+				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Exclamation.uasset"
 			]
 		}
 	]
