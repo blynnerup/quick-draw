@@ -3919,3 +3919,550 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.30-15.25.49:427][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
 [2023.10.30-15.25.49:431][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
 [2023.10.30-15.25.49:482][229]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.10.30-15.38.34:486][894]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.035 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 676 files in 1211 folders with total size 8 MiB.
+[2023.10.30-16.38.33:517][689]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 676 files in 1211 folders with total size 8 MiB.
+[2023.10.30-17.38.33:510][486]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.058 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 676 files in 1211 folders with total size 8 MiB.
+[2023.10.30-18.38.34:484][286]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.032 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 676 files in 1211 folders with total size 8 MiB.
+[2023.10.30-19.38.33:529][ 81]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.077 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 676 files in 1211 folders with total size 8 MiB.
+[2023.10.30-19.42.32:715][845]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.10.30-19.42.33:970][959]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.30-19.42.33:980][959]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.30-19.42.33:993][960]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.30-19.42.35:556][143]LogContentBrowser: Attempting asset rename: NewFolder -> Input
+[2023.10.30-19.42.35:556][143]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.30-19.42.39:033][543]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.30-19.42.39:042][543]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.30-19.42.39:091][545]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.30-19.42.40:439][700]LogContentBrowser: Attempting asset rename: NewFolder -> Actions
+[2023.10.30-19.42.40:439][700]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.30-19.43.20:382][758]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.10.30-19.43.20:388][758]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.10.30-19.43.20:432][760]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.10.30-19.43.25:878][414]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Attack
+[2023.10.30-19.43.25:879][414]LogContentBrowser: End creating deferred item NewInputAction
+[2023.10.30-19.43.28:810][763]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Attack.IA_Attack
+[2023.10.30-19.43.46:512][801]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2023.10.30-19.43.46:518][801]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2023.10.30-19.43.46:528][802]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2023.10.30-19.43.52:441][509]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Duel
+[2023.10.30-19.43.52:441][509]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2023.10.30-19.43.58:078][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.10.30-19.43.59:847][750]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.30-19.43.59:895][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.30-19.43.59:909][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.10.30-19.43.59:922][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.30-19.44.34:997][285]LogViewport: Scene viewport resized to 1014x375, mode Windowed.
+[2023.10.30-19.44.36:883][498]LogViewport: Scene viewport resized to 2038x813, mode Windowed.
+[2023.10.30-19.44.40:631][886]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2023.10.30-19.44.40:637][886]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2023.10.30-19.44.40:644][887]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2023.10.30-19.44.46:449][581]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Duel
+[2023.10.30-19.44.46:450][581]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2023.10.30-19.44.58:662][716]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Duel.IMC_Duel
+[2023.10.30-19.46.07:052][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-19.46.07:079][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Duel" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Input/IMC_Duel.uasset" SILENT=true
+[2023.10.30-19.46.07:080][ 67]LogSavePackage: Moving output files for package: /Game/Input/IMC_Duel
+[2023.10.30-19.46.07:080][ 67]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/IMC_Duel8FBD3E494C27B4F50E0852B79A67CC35.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Input/IMC_Duel.uasset'
+[2023.10.30-19.46.07:086][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 954 ms)
+[2023.10.30-19.46.07:086][ 67]AssetCheck: New page: Asset Save: IMC_Duel
+[2023.10.30-19.46.07:087][ 67]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Duel.IMC_Duel
+[2023.10.30-19.46.29:994][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.10.30-19.46.29:994][791]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-19.46.29:994][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-19.46.48:600][617]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.30-19.46.48:601][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-19.46.48:612][617]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.10.30-19.46.48:612][617]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-19.46.48:612][617]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-19.46.51:075][892]LogViewport: Scene viewport resized to 1525x1227, mode Windowed.
+[2023.10.30-19.47.23:578][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.10.30-19.47.23:579][540]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Duel' took 0.018
+[2023.10.30-19.47.23:580][540]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Attack] ([1] browsable assets)...
+[2023.10.30-19.47.23:580][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Attack]
+[2023.10.30-19.47.23:580][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Attack" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/Autosaves/Game/Input/Actions/IA_Attack_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.10.30-19.47.23:580][540]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Attack_Auto3
+[2023.10.30-19.47.23:580][540]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/IA_Attack_Auto3237E56B2420A20E505E5678231037F64.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/Autosaves/Game/Input/Actions/IA_Attack_Auto3.uasset'
+[2023.10.30-19.47.23:581][540]LogFileHelpers: Auto-saving content packages took 0.001
+[2023.10.30-20.24.38:381][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.10.30-20.24.38:384][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Duel' took 0.024
+[2023.10.30-20.24.38:384][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Samurai_Player] ([2] browsable assets)...
+[2023.10.30-20.24.38:384][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Samurai_Player]
+[2023.10.30-20.24.38:389][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Samurai_Player_Auto4
+[2023.10.30-20.24.38:389][ 40]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/BP_Samurai_Player_Auto4C1219EBB42702FB4F680F6BE2F0C1464.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/Autosaves/Game/Blueprints/BP_Samurai_Player_Auto4.uasset'
+[2023.10.30-20.24.38:389][ 40]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.10.30-20.38.33:515][546]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 676 files in 1211 folders with total size 8 MiB.
+[2023.10.30-21.02.06:942][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.10.30-21.02.06:949][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-21.02.06:982][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Attack" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Input/Actions/IA_Attack.uasset" SILENT=true
+[2023.10.30-21.02.06:983][ 84]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Attack
+[2023.10.30-21.02.06:983][ 84]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/IA_Attack7AEFA93840FFB5865ED19DAF748F0981.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Input/Actions/IA_Attack.uasset'
+[2023.10.30-21.02.06:984][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai_Player" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset" SILENT=true
+[2023.10.30-21.02.06:989][ 84]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai_Player
+[2023.10.30-21.02.06:989][ 84]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/BP_Samurai_PlayerF5EE82F14A8078842D832FBE7A9BCE52.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset'
+[2023.10.30-21.02.06:995][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 999 ms)
+[2023.10.30-21.02.06:997][ 84]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.30-21.02.06:997][ 84]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/Actions/IA_Attack.IA_Attack
+[2023.10.30-21.02.06:997][ 84]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.10.30-21.02.07:935][197]BlueprintLog: New page: Compile BP_Samurai_Player
+[2023.10.30-21.02.07:970][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.10.30-21.02.43:988][402]BlueprintLog: New page: Compile BP_Samurai_Player
+[2023.10.30-21.02.44:016][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.10.30-21.03.34:864][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.10.30-21.03.34:867][ 34]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Duel' took 0.015
+[2023.10.30-21.03.34:867][ 34]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Samurai_Player] ([2] browsable assets)...
+[2023.10.30-21.03.34:867][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Samurai_Player]
+[2023.10.30-21.03.34:872][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Samurai_Player_Auto5
+[2023.10.30-21.03.34:873][ 34]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/BP_Samurai_Player_Auto5E2C187274824F7D721912787024AFA8B.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/Autosaves/Game/Blueprints/BP_Samurai_Player_Auto5.uasset'
+[2023.10.30-21.03.34:873][ 34]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.10.30-21.04.05:474][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-21.04.05:501][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai_Player" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset" SILENT=true
+[2023.10.30-21.04.05:506][163]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai_Player
+[2023.10.30-21.04.05:506][163]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/BP_Samurai_Player362B4E7A4BF9F28B34FBCFAE1FA38F50.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset'
+[2023.10.30-21.04.05:512][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.03 sec)
+[2023.10.30-21.04.05:513][163]AssetCheck: New page: Asset Save: BP_Samurai_Player
+[2023.10.30-21.04.05:513][163]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.10.30-21.04.46:798][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-21.04.46:829][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai_Player" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset" SILENT=true
+[2023.10.30-21.04.46:833][917]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai_Player
+[2023.10.30-21.04.46:834][917]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/BP_Samurai_Player50C764924797B6D4CB1260B27D3362FF.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset'
+[2023.10.30-21.04.46:841][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.08 sec)
+[2023.10.30-21.04.46:843][917]AssetCheck: New page: Asset Save: BP_Samurai_Player
+[2023.10.30-21.04.46:843][917]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.10.30-21.05.48:174][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-21.05.48:203][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai_Player" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset" SILENT=true
+[2023.10.30-21.05.48:209][241]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai_Player
+[2023.10.30-21.05.48:209][241]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/BP_Samurai_Player7C79C53544BFF2C182C79B8666DDAFFC.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset'
+[2023.10.30-21.05.48:214][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.12 sec)
+[2023.10.30-21.05.48:215][241]AssetCheck: New page: Asset Save: BP_Samurai_Player
+[2023.10.30-21.05.48:215][241]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.10.30-21.05.48:755][306]BlueprintLog: New page: Compile BP_Samurai_Player
+[2023.10.30-21.05.48:783][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.10.30-21.05.51:727][639]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.30-21.05.51:733][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.30-21.05.51:733][639]PIE: New page: PIE session: MAP_Duel (30 Oct 2023, 23.05.51)
+[2023.10.30-21.05.51:733][639]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.05.51:735][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001304s)
+[2023.10.30-21.05.51:735][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001359s)
+[2023.10.30-21.05.51:747][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.30-21.05.51:750][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-21.05.51:750][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-21.05.51:750][639]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.10.30-21.05.51:750][639]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2023.10.30-21.05.51:750][639]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.10.30-21.05.51:751][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.30-21.05.51:751][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.30-21.05.51:751][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.30-21.05.51:751][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.30-21.05.51:751][639]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.30-21.05.51:751][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.30-21.05.51:751][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.30-21.05.51:751][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.30-21.05.51:751][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.30-21.05.51:751][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.30-21.05.51:751][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.30-21.05.51:754][639]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.30-21.05.51:773][639]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.10.30-21.05.51:774][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.30-21.05.51:774][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.30-21.05.51:774][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.30-21.05.51:775][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.10.30-21.05.51:775][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.10.30-21.05.51:776][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.10.30-21.05.51:776][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.10.30-21.05.51:776][639]LogInit: FAudioDevice initialized with ID 17.
+[2023.10.30-21.05.51:776][639]LogAudio: Display: Audio Device (ID: 17) registered with world 'MAP_Duel'.
+[2023.10.30-21.05.51:776][639]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.10.30-21.05.51:782][639]LogLoad: Game class is 'GM_Duel_C'
+[2023.10.30-21.05.51:783][639]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.10.30-22.05.51
+[2023.10.30-21.05.51:783][639]LogWorld: Bringing up level for play took: 0.000721
+[2023.10.30-21.05.51:785][639]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.10.30-21.05.51:787][639]PIE: Server logged in
+[2023.10.30-21.05.51:787][639]PIE: Play in editor total start time 0,054 seconds.
+[2023.10.30-21.06.03:853][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.06.03:853][ 71]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.06.03:853][ 71]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.10.30-21.06.03:853][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.06.03:864][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.30-21.06.03:867][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.06.03:878][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.06.03:878][ 71]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.10.30-21.06.03:879][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.10.30-21.06.03:880][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.10.30-21.06.03:888][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.30-21.06.03:945][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.10.30-21.07.48:641][446]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.10.30-21.07.48:641][446]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.10.30-21.07.49:656][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-21.07.49:684][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai_Player" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset" SILENT=true
+[2023.10.30-21.07.49:689][564]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai_Player
+[2023.10.30-21.07.49:689][564]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/BP_Samurai_PlayerBAD46F374C0492DCDF474DAD4DD7DDA1.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset'
+[2023.10.30-21.07.49:695][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1.16 sec)
+[2023.10.30-21.07.49:697][564]AssetCheck: New page: Asset Save: BP_Samurai_Player
+[2023.10.30-21.07.49:697][564]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.10.30-21.07.50:005][601]BlueprintLog: New page: Compile BP_Samurai_Player
+[2023.10.30-21.07.50:034][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.10.30-21.07.55:564][246]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.10.30-21.07.57:727][495]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.30-21.07.57:732][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.30-21.07.57:732][495]PIE: New page: PIE session: MAP_Duel (30 Oct 2023, 23.07.57)
+[2023.10.30-21.07.57:770][495]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.07.57:771][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001058s)
+[2023.10.30-21.07.57:771][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001090s)
+[2023.10.30-21.07.57:783][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.30-21.07.57:786][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-21.07.57:786][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-21.07.57:786][495]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.10.30-21.07.57:786][495]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2023.10.30-21.07.57:786][495]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.10.30-21.07.57:786][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.30-21.07.57:786][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.30-21.07.57:786][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.30-21.07.57:786][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.30-21.07.57:786][495]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.30-21.07.57:786][495]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.30-21.07.57:786][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.30-21.07.57:786][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.30-21.07.57:787][495]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.30-21.07.57:787][495]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.30-21.07.57:787][495]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.30-21.07.57:788][495]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.30-21.07.57:807][495]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.10.30-21.07.57:808][495]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.30-21.07.57:808][495]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.30-21.07.57:808][495]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.30-21.07.57:808][495]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.10.30-21.07.57:808][495]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.10.30-21.07.57:809][495]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.10.30-21.07.57:809][495]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.10.30-21.07.57:809][495]LogInit: FAudioDevice initialized with ID 18.
+[2023.10.30-21.07.57:809][495]LogAudio: Display: Audio Device (ID: 18) registered with world 'MAP_Duel'.
+[2023.10.30-21.07.57:809][495]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.10.30-21.07.57:812][495]LogLoad: Game class is 'GM_Duel_C'
+[2023.10.30-21.07.57:813][495]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.10.30-22.07.57
+[2023.10.30-21.07.57:813][495]LogWorld: Bringing up level for play took: 0.000598
+[2023.10.30-21.07.57:814][495]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.10.30-21.07.57:815][495]PIE: Server logged in
+[2023.10.30-21.07.57:816][495]PIE: Play in editor total start time 0,084 seconds.
+[2023.10.30-21.08.02:600][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.08.02:600][ 58]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.08.02:600][ 58]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.10.30-21.08.02:600][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.08.02:607][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.30-21.08.02:611][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.08.02:619][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.08.02:619][ 58]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.10.30-21.08.02:619][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.10.30-21.08.02:621][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.10.30-21.08.02:626][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.10.30-21.08.02:712][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.10.30-21.08.23:583][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-21.08.23:607][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai_Player" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset" SILENT=true
+[2023.10.30-21.08.23:612][255]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai_Player
+[2023.10.30-21.08.23:613][255]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/BP_Samurai_Player2145C40D4E6EF04AA72566B3671B1F1D.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset'
+[2023.10.30-21.08.23:619][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.19 sec)
+[2023.10.30-21.08.23:620][255]AssetCheck: New page: Asset Save: BP_Samurai_Player
+[2023.10.30-21.08.23:620][255]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.10.30-21.08.24:042][305]BlueprintLog: New page: Compile BP_Samurai_Player
+[2023.10.30-21.08.24:066][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.10.30-21.08.27:285][682]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.30-21.08.27:289][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.30-21.08.27:289][682]PIE: New page: PIE session: MAP_Duel (30 Oct 2023, 23.08.27)
+[2023.10.30-21.08.27:320][682]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.08.27:320][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001033s)
+[2023.10.30-21.08.27:320][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001062s)
+[2023.10.30-21.08.27:330][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.10.30-21.08.27:332][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-21.08.27:332][682]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-21.08.27:333][682]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.10.30-21.08.27:333][682]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2023.10.30-21.08.27:333][682]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.10.30-21.08.27:333][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.30-21.08.27:333][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.30-21.08.27:333][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.30-21.08.27:333][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.30-21.08.27:333][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.30-21.08.27:333][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.30-21.08.27:333][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.30-21.08.27:333][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.30-21.08.27:333][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.30-21.08.27:333][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.30-21.08.27:333][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.30-21.08.27:335][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.30-21.08.27:352][682]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.10.30-21.08.27:352][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.30-21.08.27:352][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.30-21.08.27:352][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.30-21.08.27:353][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.10.30-21.08.27:353][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.10.30-21.08.27:354][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.10.30-21.08.27:354][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.10.30-21.08.27:354][682]LogInit: FAudioDevice initialized with ID 19.
+[2023.10.30-21.08.27:354][682]LogAudio: Display: Audio Device (ID: 19) registered with world 'MAP_Duel'.
+[2023.10.30-21.08.27:354][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.10.30-21.08.27:356][682]LogLoad: Game class is 'GM_Duel_C'
+[2023.10.30-21.08.27:357][682]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.10.30-22.08.27
+[2023.10.30-21.08.27:357][682]LogWorld: Bringing up level for play took: 0.000519
+[2023.10.30-21.08.27:359][682]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.10.30-21.08.27:360][682]PIE: Server logged in
+[2023.10.30-21.08.27:360][682]PIE: Play in editor total start time 0,071 seconds.
+[2023.10.30-21.08.37:489][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.08.37:489][885]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.08.37:489][885]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.10.30-21.08.37:490][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.08.37:497][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.30-21.08.37:499][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.08.37:513][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.08.37:513][885]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.10.30-21.08.37:513][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.10.30-21.08.37:515][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.10.30-21.08.37:519][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.10.30-21.08.37:570][886]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.10.30-21.09.42:542][383]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.30-21.09.42:546][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.30-21.09.42:546][383]PIE: New page: PIE session: MAP_Duel (30 Oct 2023, 23.09.42)
+[2023.10.30-21.09.42:578][383]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.09.42:578][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001103s)
+[2023.10.30-21.09.42:578][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001138s)
+[2023.10.30-21.09.42:591][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.30-21.09.42:594][383]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-21.09.42:594][383]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-21.09.42:594][383]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.10.30-21.09.42:594][383]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2023.10.30-21.09.42:594][383]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.10.30-21.09.42:594][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.30-21.09.42:594][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.30-21.09.42:594][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.30-21.09.42:594][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.30-21.09.42:594][383]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.30-21.09.42:594][383]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.30-21.09.42:594][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.30-21.09.42:594][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.30-21.09.42:595][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.30-21.09.42:595][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.30-21.09.42:595][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.30-21.09.42:596][383]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.30-21.09.42:613][383]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.10.30-21.09.42:613][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.30-21.09.42:613][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.30-21.09.42:613][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.30-21.09.42:614][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.10.30-21.09.42:614][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.10.30-21.09.42:615][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.10.30-21.09.42:615][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.10.30-21.09.42:615][383]LogInit: FAudioDevice initialized with ID 20.
+[2023.10.30-21.09.42:615][383]LogAudio: Display: Audio Device (ID: 20) registered with world 'MAP_Duel'.
+[2023.10.30-21.09.42:615][383]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.10.30-21.09.42:618][383]LogLoad: Game class is 'GM_Duel_C'
+[2023.10.30-21.09.42:618][383]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.10.30-22.09.42
+[2023.10.30-21.09.42:618][383]LogWorld: Bringing up level for play took: 0.000517
+[2023.10.30-21.09.42:619][383]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.10.30-21.09.42:620][383]PIE: Server logged in
+[2023.10.30-21.09.42:621][383]PIE: Play in editor total start time 0,074 seconds.
+[2023.10.30-21.09.54:179][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.09.54:179][758]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.09.54:179][758]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.10.30-21.09.54:179][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.09.54:185][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.30-21.09.54:188][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.09.54:199][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.09.54:199][758]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.10.30-21.09.54:199][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.10.30-21.09.54:200][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.10.30-21.09.54:205][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.10.30-21.09.54:251][759]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.10.30-21.11.27:109][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-21.11.27:136][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai_Player" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset" SILENT=true
+[2023.10.30-21.11.27:141][754]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai_Player
+[2023.10.30-21.11.27:142][754]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/BP_Samurai_Player69CAE80C4F5BE9187A00ED9EED90F2E1.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset'
+[2023.10.30-21.11.27:147][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 1.23 sec)
+[2023.10.30-21.11.27:148][754]AssetCheck: New page: Asset Save: BP_Samurai_Player
+[2023.10.30-21.11.27:148][754]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.10.30-21.11.27:495][796]BlueprintLog: New page: Compile BP_Samurai_Player
+[2023.10.30-21.11.27:523][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.30-21.11.33:386][459]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.30-21.11.33:390][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.30-21.11.33:390][459]PIE: New page: PIE session: MAP_Duel (30 Oct 2023, 23.11.33)
+[2023.10.30-21.11.33:390][459]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.11.33:391][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000908s)
+[2023.10.30-21.11.33:391][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.000931s)
+[2023.10.30-21.11.33:404][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.10.30-21.11.33:407][459]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-21.11.33:407][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-21.11.33:407][459]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.10.30-21.11.33:407][459]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2023.10.30-21.11.33:408][459]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.10.30-21.11.33:408][459]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.30-21.11.33:408][459]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.30-21.11.33:408][459]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.30-21.11.33:408][459]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.30-21.11.33:408][459]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.30-21.11.33:408][459]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.30-21.11.33:408][459]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.30-21.11.33:408][459]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.30-21.11.33:408][459]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.30-21.11.33:408][459]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.30-21.11.33:408][459]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.30-21.11.33:410][459]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.30-21.11.33:426][459]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.10.30-21.11.33:426][459]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.30-21.11.33:426][459]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.30-21.11.33:426][459]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.30-21.11.33:428][459]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.10.30-21.11.33:428][459]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.10.30-21.11.33:429][459]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.10.30-21.11.33:429][459]LogInit: FAudioDevice initialized with ID 21.
+[2023.10.30-21.11.33:429][459]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.10.30-21.11.33:429][459]LogAudio: Display: Audio Device (ID: 21) registered with world 'MAP_Duel'.
+[2023.10.30-21.11.33:429][459]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.10.30-21.11.33:432][459]LogLoad: Game class is 'GM_Duel_C'
+[2023.10.30-21.11.33:432][459]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.10.30-22.11.33
+[2023.10.30-21.11.33:432][459]LogWorld: Bringing up level for play took: 0.000570
+[2023.10.30-21.11.33:434][459]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.10.30-21.11.33:434][459]PIE: Server logged in
+[2023.10.30-21.11.33:435][459]PIE: Play in editor total start time 0,046 seconds.
+[2023.10.30-21.11.38:807][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.11.38:807][ 91]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.11.38:807][ 91]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.10.30-21.11.38:807][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.11.38:815][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.30-21.11.38:818][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.11.38:829][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.11.38:829][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.10.30-21.11.38:829][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.10.30-21.11.38:831][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.10.30-21.11.38:838][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.10.30-21.11.38:890][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.10.30-21.12.10:697][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-21.12.10:727][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai_Player" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset" SILENT=true
+[2023.10.30-21.12.10:733][755]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai_Player
+[2023.10.30-21.12.10:733][755]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/BP_Samurai_Player107E15804AB97652244A95A63EF4515A.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset'
+[2023.10.30-21.12.10:738][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.27 sec)
+[2023.10.30-21.12.10:739][755]AssetCheck: New page: Asset Save: BP_Samurai_Player
+[2023.10.30-21.12.10:739][755]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.10.30-21.12.11:563][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-21.12.11:581][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai_Player" FILE="D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset" SILENT=true
+[2023.10.30-21.12.11:587][851]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai_Player
+[2023.10.30-21.12.11:588][851]LogSavePackage: Moving 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Saved/BP_Samurai_Player451DA5984C367BC29570AD997593416B.tmp' to 'D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset'
+[2023.10.30-21.12.11:592][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 1.30 sec)
+[2023.10.30-21.12.11:593][851]AssetCheck: New page: Asset Save: BP_Samurai_Player
+[2023.10.30-21.12.11:593][851]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.10.30-21.12.11:957][895]BlueprintLog: New page: Compile BP_Samurai_Player
+[2023.10.30-21.12.11:983][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.10.30-21.12.14:073][136]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.30-21.12.14:077][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.30-21.12.14:077][136]PIE: New page: PIE session: MAP_Duel (30 Oct 2023, 23.12.14)
+[2023.10.30-21.12.14:106][136]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.12.14:107][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000974s)
+[2023.10.30-21.12.14:107][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001003s)
+[2023.10.30-21.12.14:120][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.30-21.12.14:123][136]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-21.12.14:123][136]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-21.12.14:123][136]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.10.30-21.12.14:123][136]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2023.10.30-21.12.14:124][136]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.10.30-21.12.14:124][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.30-21.12.14:124][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.30-21.12.14:124][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.30-21.12.14:124][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.30-21.12.14:124][136]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.30-21.12.14:124][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.30-21.12.14:124][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.30-21.12.14:124][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.30-21.12.14:124][136]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.30-21.12.14:124][136]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.30-21.12.14:124][136]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.30-21.12.14:125][136]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.30-21.12.14:143][136]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.10.30-21.12.14:143][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.30-21.12.14:143][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.30-21.12.14:143][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.30-21.12.14:145][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.10.30-21.12.14:145][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.10.30-21.12.14:146][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.10.30-21.12.14:146][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.10.30-21.12.14:146][136]LogInit: FAudioDevice initialized with ID 22.
+[2023.10.30-21.12.14:146][136]LogAudio: Display: Audio Device (ID: 22) registered with world 'MAP_Duel'.
+[2023.10.30-21.12.14:146][136]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.10.30-21.12.14:149][136]LogLoad: Game class is 'GM_Duel_C'
+[2023.10.30-21.12.14:149][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.10.30-22.12.14
+[2023.10.30-21.12.14:149][136]LogWorld: Bringing up level for play took: 0.000516
+[2023.10.30-21.12.14:151][136]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.10.30-21.12.14:152][136]PIE: Server logged in
+[2023.10.30-21.12.14:152][136]PIE: Play in editor total start time 0,074 seconds.
+[2023.10.30-21.12.27:506][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.12.27:506][727]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.12.27:506][727]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.10.30-21.12.27:506][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.12.27:513][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.30-21.12.27:516][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.12.27:526][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.12.27:527][727]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.10.30-21.12.27:527][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.10.30-21.12.27:528][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.10.30-21.12.27:533][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.10.30-21.12.27:591][729]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.10.30-21.12.46:053][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player_C
+[2023.10.30-21.12.46:054][897]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player as actor: BP_Samurai_Player_C /Game/Maps/MAP_Duel.MAP_Duel:PersistentLevel.BP_Samurai_C_1
+[2023.10.30-21.12.46:070][897]EditorErrors: New page: Actor Reattachment
+[2023.10.30-21.12.48:094][127]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.30-21.12.48:105][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.30-21.12.48:105][127]PIE: New page: PIE session: MAP_Duel (30 Oct 2023, 23.12.48)
+[2023.10.30-21.12.48:105][127]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.12.48:106][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000870s)
+[2023.10.30-21.12.48:106][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.000892s)
+[2023.10.30-21.12.48:119][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.10.30-21.12.48:122][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-21.12.48:123][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-21.12.48:123][127]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.10.30-21.12.48:123][127]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2023.10.30-21.12.48:123][127]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.10.30-21.12.48:123][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.30-21.12.48:123][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.30-21.12.48:123][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.30-21.12.48:123][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.30-21.12.48:123][127]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.30-21.12.48:123][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.30-21.12.48:123][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.30-21.12.48:123][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.30-21.12.48:123][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.30-21.12.48:123][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.30-21.12.48:124][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.30-21.12.48:126][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.30-21.12.48:143][127]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.10.30-21.12.48:143][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.30-21.12.48:143][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.30-21.12.48:143][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.30-21.12.48:144][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.10.30-21.12.48:144][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.10.30-21.12.48:145][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.10.30-21.12.48:145][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.10.30-21.12.48:145][127]LogInit: FAudioDevice initialized with ID 23.
+[2023.10.30-21.12.48:145][127]LogAudio: Display: Audio Device (ID: 23) registered with world 'MAP_Duel'.
+[2023.10.30-21.12.48:145][127]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.10.30-21.12.48:147][127]LogLoad: Game class is 'GM_Duel_C'
+[2023.10.30-21.12.48:149][127]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.10.30-22.12.48
+[2023.10.30-21.12.48:149][127]LogWorld: Bringing up level for play took: 0.000617
+[2023.10.30-21.12.48:151][127]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.10.30-21.12.48:152][127]LogBlueprintUserMessages: [BP_Samurai_C_1] Begin
+[2023.10.30-21.12.48:161][127]PIE: Server logged in
+[2023.10.30-21.12.48:162][127]PIE: Play in editor total start time 0,064 seconds.
+[2023.10.30-21.12.51:352][500]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.10.30-21.12.51:659][537]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.10.30-21.12.51:876][563]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.10.30-21.12.52:118][592]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.10.30-21.12.53:861][801]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.10.30-21.12.54:194][841]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.10.30-21.12.56:575][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.12.56:575][124]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.10.30-21.12.56:575][124]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.10.30-21.12.56:575][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.12.56:582][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.30-21.12.56:585][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-21.12.56:597][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-21.12.56:597][124]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.10.30-21.12.56:597][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.10.30-21.12.56:599][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.10.30-21.12.56:604][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.10.30-21.12.56:662][126]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.10.30-21.13.17:566][ 95]BlueprintLog: New page: Compile BP_Samurai_Player
+[2023.10.30-21.13.17:597][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms

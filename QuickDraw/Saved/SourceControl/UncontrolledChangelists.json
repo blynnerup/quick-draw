@@ -29,7 +29,9 @@
 				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset",
 				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/GM_Duel.uasset",
 				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset",
-				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Exclamation.uasset"
+				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Blueprints/BP_Exclamation.uasset",
+				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Input/IMC_Duel.uasset",
+				"D:/Source/Unreal Games/Quick Draw/QuickDraw/Content/Input/Actions/IA_Attack.uasset"
 			]
 		}
 	]
